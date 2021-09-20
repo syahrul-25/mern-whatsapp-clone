@@ -1,3 +1,8 @@
+# Description
+
+this program budil with reactjs, nodejs, express and firebase.\
+for run this app, you have to setup firebase config first and create firestore database
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
